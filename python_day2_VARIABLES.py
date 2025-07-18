@@ -33,14 +33,14 @@ phone_number = "01745678"
 website = "www.google.com"
 
 # Step 02: Printing the business card
-print("\n--- Digital Business Card ---\n")
+print(f"Digital Busienss Card")
 print(f"""
-----------------------------
-| Name: {full_name}
-| Title: {job_title}
-| Company: {company_name}
-| Email: {email}
-| Phone: {phone_number}
-| Website: {website}
-----------------------------
+========================================
+| Name: {full_name}                     
+|Title: {job_title}                     
+|Company: {company_name}                
+|Email: {email}                         
+|Phone: {phone_number}                  
+|Website: {website}                   
+========================================
 """)
