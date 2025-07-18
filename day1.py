@@ -19,7 +19,8 @@ is necessary for our learning goal.
 8. Our learning sylabus is designed in a way so that we only learn what
 is necessary for our vission and goal.
 
--------------BEST OF LUCK"""
+__________Best of luck__________"""
+
 
 #printing the message
 print(textwrap.dedent(message).strip())
