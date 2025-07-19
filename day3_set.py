@@ -22,3 +22,20 @@ print(set5)
 print(set6)
 print(set7)
 print(set8)
+
+"""Output
+{1, 2, 3, 4, 5}
+{'Cherry', 'Apple', 'Banana'}
+{False, True}
+{1, 2, 'Apple'}
+{1, 2, 3, 4, 5}
+{'Cherry', 'Apple', 'Banana'}
+{False, True}
+{1, 2, 'Apple'}
+3
+<class 'set'>"""
+
+#Extra
+print(len(set4))     #length of the set
+print(type(set4))   #type of the set
+ 
