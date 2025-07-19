@@ -1,6 +1,6 @@
 
 ````markdown
-![Banner](Daniel%20Gallego.png)
+<img src="Daniel%20Gallego.png" alt="Banner" style="width:100%; border-radius:8px;" />
 
 # 🤖 Python for AI Agent Development
 
