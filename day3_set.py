@@ -23,7 +23,7 @@ print(set6)
 print(set7)
 print(set8)
 
-"""Output
+"""gOutput
 {1, 2, 3, 4, 5}
 {'Cherry', 'Apple', 'Banana'}
 {False, True}
