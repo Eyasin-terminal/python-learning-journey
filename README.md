@@ -77,15 +77,3 @@ If you’re on a similar journey, feel free to fork this repo or connect. Let’
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Status](https://img.shields.io/badge/Status-Learning-informational)
 
-```
-
----
-
-Let me know if you want to:
-
-- Add your social or portfolio links.
-- Turn this into a GitHub Pages site later.
-- Include badges (Python version, License, etc.).
-
-I'm here to help you make this your personal brand as a future AI agent developer.
-```
