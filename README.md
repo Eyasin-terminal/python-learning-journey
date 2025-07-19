@@ -70,6 +70,12 @@ If you’re on a similar journey, feel free to fork this repo or connect. Let’
 ---
 
 **– Eyasin Arafath, Dhaka**
+# 🤖 Python for AI Agent Development
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Status](https://img.shields.io/badge/Status-Learning-informational)
 
 ```
 
