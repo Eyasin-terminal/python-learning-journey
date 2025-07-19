@@ -1,8 +1,7 @@
-Got it! Here's a refined `README.md` for your GitHub repository that clearly explains your **vision**, **goals**, and **tools**—not just Day 1. This version positions your repo as a long-term, focused learning journey to become an AI agent developer using Python.
-
----
 
 ````markdown
+![Banner](Daniel%20Gallego.png)
+
 # 🤖 Python for AI Agent Development
 
 Welcome! This repository documents my personal journey toward becoming an **AI Agent Developer**—someone who builds intelligent systems that solve real-world problems.
