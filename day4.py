@@ -22,4 +22,5 @@ student = {
 
 #convert dict to json
 student_json= json.dumps(student)
-print(json.dumps(student_json))
+print(student_json)
+    
