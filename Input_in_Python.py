@@ -26,3 +26,13 @@ location= input( "Enter the location you want to visit:")
 Duraiton= input("Enter the duration of your tip:")
 
 print(f"Hello {name}! We are sorry to inform you that \n your trip to {location} on {date} for {Duraiton} days is not posssible")
+
+""" Output:
+Enter your full name:Godfather
+Enter your travel date 7th June
+Enter the location you want to visit:Tokyo
+Enter the duration of your tip:3 days
+Hello Godfather! We are sorry to inform you that 
+your trip to Tokyo on  7th June for 3 days days is not posssible"""
+
+print ("Goodbye, catch you soon again.")
