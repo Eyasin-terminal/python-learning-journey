@@ -35,4 +35,5 @@ Enter the duration of your tip:3 days
 Hello Godfather! We are sorry to inform you that 
 your trip to Tokyo on  7th June for 3 days days is not posssible"""
 
-print ("Goodbye, catch you soon again.")
+print ("Catch you soon again. Goodbye!")
+print ("==================================================================")
