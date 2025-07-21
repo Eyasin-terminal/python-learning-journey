@@ -17,6 +17,17 @@ def business_card(name: str, title: str, company: str, email: str, phone: str, w
     """
     print(card)
 
+
+"""OUTPUT:
+ =========================
+    Name: Eyasin Arafath
+    Title: AI Agent
+    Company: Google
+    Email: f4m0H@example.com
+    Phone: 01745678
+    Website: www.google.com
+    ========================="""
+
 print()
 business_card(
     name="Eyasin Arafath",
@@ -26,3 +37,4 @@ business_card(
     phone="01745678",
     website="www.google.com"
 )
+
